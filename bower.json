@@ -1,0 +1,20 @@
+{
+  "name": "funhousejs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/femoraes/funhousejs",
+  "authors": [
+    "Fernando <fernandosmoraes@msn.com>"
+  ],
+  "description": "a fun house mv* javascript framework",
+  "main": "funhouse.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "javascript",
+    "fun",
+    "house",
+    "funhouse"
+  ],
+  "license": "MIT"
+}
